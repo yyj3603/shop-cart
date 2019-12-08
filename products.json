@@ -1,0 +1,12 @@
+[
+  { "id": 1, "imgurl":"https://ss2.bdstatic.com/8_V1bjqh_Q23odCf/pacific/1864433775.jpg", "title": "iPad 4 Mini", "price": 500.01, "inventory": 2 },
+  { "id": 2,"imgurl":"https://dss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=4283888649,181857437&fm=26&gp=0.jpg", "title": "H&M T-Shirt White", "price": 10.99, "inventory": 10 },
+  {
+    "id": 3,
+    "imgurl":"https://dss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/91ef76c6a7efce1bfe5ede98a851f3deb48f656e.jpg",
+    "title": "Charli XCX - Sucker CD",
+    "price": 19.99,
+    "inventory": 5
+  },
+  { "id": 4,"imgurl":"https://res.vmallres.com/pimages//product/6901443319756/428_428_C1BD04C38EB887D9B1C911881CD34BAB44FF95CD90558E39mp.png", "title": "Huawei", "price": 29.99, "inventory": 5 }
+]
